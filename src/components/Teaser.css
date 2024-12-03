@@ -1,0 +1,52 @@
+.teaser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #f4f4f4;
+  }
+  
+  .teaser__content {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    gap: 50px;
+    width: 100%;
+    max-width: 80%; 
+  }
+  
+  .teaser__collections, .teaser__swag, .teaser__prices {
+    flex: 1; 
+    height: 800px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-size: cover; 
+    background-position: center; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    position: relative; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+
+  .teaser__collections--text {
+    font-size: 24px; 
+    color: #fff; 
+    text-transform: uppercase; 
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    z-index: 2; 
+  }
+  
+
+  .teaser__collections::before, .teaser__swag::before, .teaser__prices::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+  }
+  
