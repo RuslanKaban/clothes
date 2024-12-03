@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clothes/static/css/main.70935e4a.css",
+    "main.js": "/clothes/static/js/main.2e1b88cd.js",
+    "static/media/teaserCollections.jpg": "/clothes/static/media/teaserCollections.aff269e5e7ed362634df.jpg",
+    "static/media/teaserPrices.jpg": "/clothes/static/media/teaserPrices.c65ba04cd89795c64784.jpg",
+    "static/media/swampgod1.jpg": "/clothes/static/media/swampgod1.f8d81dc90dcb4ed7f8cd.jpg",
+    "static/media/teaserSwag.jpg": "/clothes/static/media/teaserSwag.4da7dc8b40ee12407b5d.jpg",
+    "static/media/prada1.jpg": "/clothes/static/media/prada1.fc1c57660c27008ea05e.jpg",
+    "static/media/heroImg.jpg": "/clothes/static/media/heroImg.c69562ef518f12de49e2.jpg",
+    "static/media/balenci1.jpg": "/clothes/static/media/balenci1.9165c0437b5712b7775f.jpg",
+    "index.html": "/clothes/index.html",
+    "main.70935e4a.css.map": "/clothes/static/css/main.70935e4a.css.map",
+    "main.2e1b88cd.js.map": "/clothes/static/js/main.2e1b88cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70935e4a.css",
+    "static/js/main.2e1b88cd.js"
+  ]
+}
